@@ -1,3 +1,3 @@
-# Notes
+###### I believe constant learning is power to success
 
-- **Classes** are the Syntactical sugar of code, Class in JS mimic as the OOPS but they are just Prototype-based-inheritance. Checkout my Notes on Class: [Class in Js](https://www.notion.so/C*lass-in-JS-452252913751453bba9bf1cc168663f1)
+This Repository contains Self-Learning Notes of Different Domains. I Hope this Repository help others in respective domain.👍
